@@ -1,0 +1,10 @@
+## Interface: 120001
+## Title: MouseHairs
+## Notes: Cursor crosshair / "Mouse Sonar" — keybind Find Mouse or /pulse. Options in Settings > AddOns.
+## Version: 1.2
+## Author: Castleguard
+## X-Repository: https://github.com/Bangerz/MouseHairs
+## SavedVariables: MouseHairsOpt
+
+MouseHairs.lua
+Bindings.xml

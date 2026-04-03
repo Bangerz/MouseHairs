@@ -1,0 +1,7 @@
+<Bindings>
+  <Binding name="FINDMOUSE"  header="MouseHairs">
+  		ShowCircle(1)
+  </Binding>
+</Bindings>
+
+
